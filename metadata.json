@@ -1,0 +1,6 @@
+{
+  "name": "PeymanPro",
+  "description": "دستیار تخصصی قراردادهای پیمانکاری، محاسبه‌گر تاخیرات و تمدید پیمان بر اساس بخشنامه ۵۰۹۰ و راهنمای جامع فهارس بهای سازمان برنامه و بودجه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">پیمان‌یار</string>
+    <string name="app_subtitle">دستیار مهندسی پیمان و بخشنامه ۵۰۹۰</string>
+    
+    <!-- Tab Titles -->
+    <string name="tab_delay_5090">بخشنامه ۵۰۹۰</string>
+    <string name="tab_fehrest_baha">فهرست بها</string>
+    <string name="tab_coefficients">ضرایب پیمان</string>
+    <string name="tab_adjustment">تعدیل آحاد بها</string>
+    <string name="tab_regulations">قوانین و نشریه ۴۳۱۱</string>
+    
+    <!-- Common Actions -->
+    <string name="calculate">محاسبه</string>
+    <string name="save_claim">ذخیره پرونده</string>
+    <string name="reset_form">بازنشانی</string>
+    <string name="copy_report">کپی گزارش</string>
+    <string name="share_report">اشتراک‌گذاری گزارش</string>
+    <string name="add_invoice">افزودن صورت‌وضعیت</string>
+    <string name="add_advance">افزودن قسط پیش‌پرداخت</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+    
+    <!-- Delay 5090 -->
+    <string name="contract_amount_p">مبلغ اولیه پیمان (P)</string>
+    <string name="contract_duration_days">مدت اولیه پیمان (روز)</string>
+    <string name="project_title">عنوان پروژه / پیمان</string>
+    <string name="contractor_name">نام پیمانکار</string>
+    <string name="employer_name">نام کارفرما / دستگاه اجرایی</string>
+    <string name="advance_payment_section">بند ۱: تاخیرات در پرداخت پیش‌پرداخت‌ها</string>
+    <string name="interim_invoice_section">بند ۲: تاخیرات در پرداخت صورت‌وضعیت‌های موقت</string>
+    <string name="invoice_number">شماره صورت‌وضعیت</string>
+    <string name="invoice_gross_amount">مبلغ کارکرد دوره (B)</string>
+    <string name="invoice_unpaid_amount">مبلغ پرداخت نشده (A)</string>
+    <string name="delay_days_t2_t1">روزهای تاخیر پرداخت (t2 - t1)</string>
+    <string name="allowed_extension_days">مدت تمدید مجاز پیمان (T)</string>
+    <string name="total_extension_result">مجموع تمدید مجاز پیمان:</string>
+    
+    <!-- Fehrest Baha -->
+    <string name="fehrest_abniyeh">فهرست بهای ابنیه</string>
+    <string name="fehrest_mechanic">تاسیسات مکانیکی</string>
+    <string name="fehrest_electric">تاسیسات برقی</string>
+    <string name="fehrest_road">راه، راه‌آهن و باند فرودگاه</string>
+    <string name="search_fehrest">جستجوی آیتم یا فصل فهرست بها...</string>
+    <string name="item_code">شماره ردیف</string>
+    <string name="item_desc">شرح عملیات</string>
+    <string name="item_unit">واحد</string>
+    <string name="item_price">بهای واحد (ریال)</string>
+    
+    <!-- Coefficients -->
+    <string name="overhead_coef">ضریب بالاسری (Overhead)</string>
+    <string name="regional_coef">ضریب منطقه (Regional)</string>
+    <string name="tender_coef">ضریب پیشنهادی پیمانکار (پلوس/مینوس)</string>
+    <string name="floor_coef">ضریب طبقات</string>
+    <string name="height_coef">ضریب ارتفاع</string>
+    <string name="mobilization_coef">ضریب تجهیز کارگاه</string>
+    
+    <!-- Saved Claims -->
+    <string name="saved_claims_title">پرونده‌های ذخیره شده</string>
+    <string name="no_saved_claims">هنوز پرونده‌ای ذخیره نشده است.</string>
+</resources>
